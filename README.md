@@ -1,26 +1,15 @@
-# David Blue's GitHub Repository Template
-Updated `08092022-233310`
+![8270E481-285D-495B-8579-6436D5E2D0AC](https://user-images.githubusercontent.com/43663476/187061323-939d6b6f-dc8d-4515-a52f-8736d7d7c3d2.jpeg)
 
-- [**GitHub**](https://github.com/extratone/latte)
-- [WTF](https://davidblue.wtf/drafts/745BCB94-CE46-4509-A7E0-7566F8DDDF23.html)
-- [WTF Shortlink](https://davidblue.wtf/latte) - `https://davidblue.wtf/latte`
-- [~](https://tilde.town/~extratone/misc/latte)
-- [Things](things:///show?id=8bnNqdTt7bupYXTbmD1SbE)
+# RoutineHub Reports for @blue
 
----
+It occured to me that I could have been using the linked folder feature now found in [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) to maintain published, git-tracked, versioned documentation of general analytics-esque data from [my RoutineHub Library](https://routinehub.co/user/blue) this whole time.
 
-![Cute Git](https://user-images.githubusercontent.com/43663476/117531764-d6064100-afa9-11eb-9e09-783e189abe8e.gif)
+This repository is the manifestation of that idea, all enabled by [Martin de Boer's absolutely incredible **Routinehub Report shortcut**](https://routinehub.co/shortcut/2449/).
 
-***Latte*** is a GitHub Repository Template created specifically for use by [David Blue](/DavidBlue.vcf) (that’s me, howdy,) but open to any and all use/misuse/defilement as per [its license](/LICENSE.md).
+- Reports can be found in [**/Reports**](https://github.com/extratone/RoutinehubReport/Reports), completely unmodified. #3
+- The [publicly-signed, installable .shortcut file](https://github.com/extratone/RoutinehubReport/raw/main/RoutineHubReport.shortcut) on this repo should be updated/maintained at a reasonably prompt speed. #4
+- Source files documenting the Routinehub Report shortcut can be explored in [/source](https://github.com/extratone/RoutinehubReport/Reports). #4
 
-To be honest, I’m almost positive the name was really clever but I cannot for the life of me remember what the fuck I meant.
 
-### Contact me for whatever reason
 
-- [Contact Card](https://davidblue.wtf/db.vcf)
-- [Telegram](https://t.me/extratone)
-- [Email](mailto:davidblue@extratone.com) 
-- [Twitter](https://twitter.com/NeoYokel)
-- [Mastodon](https://mastodon.social/@DavidBlue)
-- [Discord](https://discord.gg/0b9KQUKP858b0iZF)
-- [*Everywhere*](https://raindrop.io/davidblue/social-directory-21059174)...
+
